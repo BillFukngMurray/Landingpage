@@ -1,0 +1,42 @@
+.Header, .Main{
+background-color: #1f2937;
+}
+
+.Headline{
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+
+.Subtext{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.HeaderLogo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.Action{
+    background-color: #3882F6;
+}
+
+button.SignUp{
+    background-color: #3882f6;
+    color: white;
+    border: 2px;
+}
+
+.Information{
+font-size: 38px;
+font-weight: extra-bold;
+color: #1F2937;
+}
+
+.QuoteContainer{
+    background-color: #E5E7EB;
+
+}
+
+
